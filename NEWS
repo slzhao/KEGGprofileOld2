@@ -1,4 +1,8 @@
+CHANGES IN VERSION 1.8.2
+------------------------
 
+    o Fix a bug in example of convertId function, which was caused by update of BioMart database. Thanks Dan.
+ 
 CHANGES IN VERSION 1.7.6
 ------------------------
 
